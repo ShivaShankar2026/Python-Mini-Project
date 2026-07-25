@@ -72,10 +72,6 @@ It demonstrates how to use lists and dictionaries to store past results, making 
 
 
 
----
 
-This README is **ready to commit** — it documents **all four versions (v1 → v4)**, explains features, shows example output, and highlights your learning journey.  
-
-👉 Do you want me to also give you the **Git commands** to add, commit, and push this README.md to your repo (`dice-roller`)?
 
 
