@@ -1,5 +1,4 @@
 # Cafe Order Management - Full System
-
 menu = {
     "pizza": 49,
     "salad": 35,
