@@ -1,5 +1,4 @@
 # Basic Cafe Order - Single Item
-
 menu = {
     "pizza": 49,
     "salad": 35,
