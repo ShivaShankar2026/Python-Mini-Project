@@ -6,21 +6,21 @@ import random
 playing = True
 
 while playing:
-    # User choice
+     # User choice
     choice = input('Roll the Dice (y/n): ').lower()
 
-    # Roll dice
+     # Roll dice
     if choice == 'y':
         die1 = random.randint(1, 6)
         die2 = random.randint(1, 6)
         print(f'{die1, die2}')
 
-    # Exit game
+      # Exit game
     elif choice == 'n':
         print('Thank you')
         break
 
-    # Invalid input
+     # Invalid input
     else:
         print('Invalid choice')
         
