@@ -1,4 +1,4 @@
-# Cafe Management
+  # Cafe Management
 
 menu = {
     'pizza': 49,
@@ -13,7 +13,7 @@ print("Menu")
 print('Pizza:49\nSalqad:35\nBurger:100\nPop Corn:150\nSandwich:60')
 menu = {'pizza' : 49,'salad' : 35, 'burger' : 100, 'popcorn' : 150 , 'sandwich' : 60}
 
-#for item, price in menu.items():
+    #for item, price in menu.items():
     #print(f"{item.title()}: {price}")
 
 order_total = 0
